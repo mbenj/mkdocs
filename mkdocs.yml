@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Docs POC
+nav:
+    - Home: index.md
+    - Siconia Technical Architecture: dat.md
+theme: readthedocs
