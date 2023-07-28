@@ -1,5 +1,5 @@
 site_name: Docs POC
 nav:
     - Home: index.md
-    - Siconia Technical Architecture: dat.md
+    - Technical Architecture: dat.md
 theme: readthedocs
