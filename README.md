@@ -1,2 +1,2 @@
 # mkdocs
-pip install mkdocs
+```pip install mkdocs```
