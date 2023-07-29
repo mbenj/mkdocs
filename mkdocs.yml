@@ -2,4 +2,5 @@ site_name: Docs POC
 nav:
     - Home: index.md
     - Technical Architecture: dat.md
-theme: readthedocs
+plugins:
+  - mkdocstrings
